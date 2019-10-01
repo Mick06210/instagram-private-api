@@ -53,7 +53,7 @@
     "tough-cookie": "^2.5.0",
     "ts-custom-error": "^2.2.2",
     "ts-xor": "^1.0.6",
-    "url-regex": "^5.0.0"
+    "url-regex": "github:ddobson/url-regex-es5"
   },
   "devDependencies": {
     "@types/bluebird": "^3.5.26",
